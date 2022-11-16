@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perimeter (abstract class) ver2", "Perimeter (abstract class) ver2\Perimeter (abstract class) ver2.csproj", "{624F7808-A3E9-41AA-B2DA-CEB8BD981126}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{624F7808-A3E9-41AA-B2DA-CEB8BD981126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{624F7808-A3E9-41AA-B2DA-CEB8BD981126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{624F7808-A3E9-41AA-B2DA-CEB8BD981126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{624F7808-A3E9-41AA-B2DA-CEB8BD981126}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC322E1A-BEE5-4FB8-9682-1A80C62680C3}
+	EndGlobalSection
+EndGlobal
